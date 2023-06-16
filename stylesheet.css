@@ -170,11 +170,11 @@ video {
 
 
   padding: auto;
-  max-width: 800px;
+  max-width: 80%;
   margin: auto;
   z-index: 1;
   margin-bottom: 4%;
-  font-family: 'Arial';
+  font-family: 'Avenir';
 
 }
 
