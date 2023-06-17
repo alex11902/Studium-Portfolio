@@ -19,7 +19,7 @@ h6 {
   word-spacing: 2px;
   font-family: 'Montserrat';
   font-weight: 400;
-  margin: 1%
+  margin: 1%;
 }
 
 .button {
@@ -40,12 +40,18 @@ h6 {
 
 }
 
+h2.p{
+  color: chocolate;
+  word-spacing: 2px;
+  font-weight: 300;
+}
+
 .text {
 
   font-family: 'Montserrat';
   color: #263238;
   padding: auto;
-  margin: auto;
+  margin: 1%;
   font-weight: 300;
   word-spacing: 2px;
   margin-left: 3%;
