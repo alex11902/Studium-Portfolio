@@ -39,6 +39,15 @@ h6 {
   z-index: 1;
 
 }
+.text{
+
+  font-family: 'Montserrat';
+  color: salmon;
+  padding: auto;
+  margin: auto;
+  font-weight: 200;
+
+}
 
 .name1 {
 
@@ -142,7 +151,9 @@ header {
   right: 1px;
   top: 1px;
   margin: 1%;
+  padding: 0.2%;
   font-family: 'Montserrat';
+  font-weight: 300;
   font-size: large;
   color: black;
   background-color: orange;
@@ -172,7 +183,7 @@ header {
   transform: scale(1.2);
 } */
 
-.p {
+.p{
 
   font-family: 'Montserrat', sans-serif;
   font-weight: 200;
@@ -221,7 +232,7 @@ a img[src$=".svg"]:hover {
   z-index: 1;
   margin-bottom: 4%;
   font-family: 'Montserrat';
-  font-weight: 300;
+  font-weight: 200;
 
 }
 
