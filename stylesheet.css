@@ -165,6 +165,7 @@ header {
 
 .slider {
 
+  visibility: hidden;
   position: fixed;
   right: 1px;
   top: 1px;
