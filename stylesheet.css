@@ -46,6 +46,7 @@ h6 {
   font-weight: 800;
   float: left;
   margin-top: 2%;
+  margin-left: 1%;
   background-color: rgba(255, 228, 196, 0.628);
   padding: 12px 14px;
   border-radius: 4px;
@@ -59,7 +60,6 @@ h6 {
   float: left;
   margin-top: 2%;
   cursor: pointer;
-  margin: 1%;
 
 }
 
@@ -232,11 +232,12 @@ footer {
   justify-content: center;
   align-items: center;
   background-color: #eaeaea;
-  padding: auto;
+  padding: 0;
   margin: 0;
   min-height: 200px;
   background-color: rgba(240, 128, 128, 0);
   background-image: linear-gradient(rgba(222, 245, 255, 0.171), lightcoral);
+  bottom: 0px;
 
 }
 
